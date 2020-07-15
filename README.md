@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋, I'm Teva
+
+[![](https://img.shields.io/badge/-@tevahenry-%231DA1F2?style=plastic&logo=twitter&logoColor=ffffff)](https://twitter.com/tevahenry)
+[![](https://img.shields.io/website?color=%23033159&style=plastic&up_message=tevahenry.com&url=https%3A%2F%2Ftevahenry.com)](https://tevahenry.com)
+
+Currently looking to become a profesional developer with the hopes of working with people that will push me to grow.
+My current skill set focuses on the MERN stack, but I'm always eager to learn something new.
 
 <!--
 **TevaHenry/TevaHenry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
